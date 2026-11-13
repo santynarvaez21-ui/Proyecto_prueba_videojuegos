@@ -1,0 +1,48 @@
+newmtl verde
+Kd 0.18 0.55 0.25
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl crema
+Kd 0.92 0.82 0.55
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl rojo
+Kd 0.75 0.12 0.12
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl rojo_ala
+Kd 0.55 0.08 0.15
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl hueso
+Kd 0.93 0.9 0.78
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl amarillo
+Kd 1 0.8 0.1
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl negro
+Kd 0.03 0.03 0.04
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
+newmtl blanco
+Kd 1 1 1
+Ka 0.1 0.1 0.1
+Ks 0.2 0.2 0.2
+Ns 30
+
